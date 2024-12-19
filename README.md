@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Caroline Huang
-- 👀 I’m interested in Yoga, travling
+- 👀 I’m interested in food justice and social equity issue
 - 🌱 I’m currently learning  Statistic, Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on job in Data Analysis
 - 📫 How to reach me: xiyueh@uw.edu
