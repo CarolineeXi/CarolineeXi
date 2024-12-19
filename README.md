@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Caroline Huang
-- 👀 Here is my protfolio: 
+- 👀 Here is my protfolio: https://carolineexi.github.io/portfolio/
 - 🌱 I’m currently learning  Statistic, Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on job in Data Analysis
 - 📫 How to reach me: xiyueh@uw.edu
